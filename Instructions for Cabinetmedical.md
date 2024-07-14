@@ -24,7 +24,8 @@ Database description:
 You can find below the database schema that was generated through Reverse Engineer and which contains all the tables and the relationships between them.
 
 
-![Diagrama](./documents/schemadiagrama.jpg)
+![schemadiagrama](https://github.com/user-attachments/assets/5ec43f4b-56ba-465d-8311-6f9b24ba04d4)
+
 
 
 
@@ -34,9 +35,9 @@ You can find below the database schema that was generated through Reverse Engine
 The following instructions were written in the scope of CREATING the structure of the database 
 
 
-<h4>[cabinetmedical-sqlworkbench.sql](documents%2Fcabinetmedical-sqlworkbench.sql)</h4>
+**[CabinetMedical-SQL-workbench](https://github.com/MihailaAlexandra/CabinetMedical-MySQL/blob/84e279583ac3e99941297032bb31d4dc28b56033/cabinetmedical-sqlworkbench.sql)**
 
-<h4>[cabinet medical.pdf](documents%2Fcabinet%20medical.pdf)</h4>
+**[Instructions for CabinetMedical](https://github.com/MihailaAlexandra/CabinetMedical-MySQL/blob/84e279583ac3e99941297032bb31d4dc28b56033/cabinet%20medical.pdf)**
 
 <h3>Conclusions</h3>
 <h4>The database created is for:</h4>
